@@ -1,0 +1,6 @@
+Vibration_1,Vibration_2,Temperature,RPM,Fault_Type
+0.12,0.45,60,1200,Normal
+0.56,1.2,75,1300,Minor Fault
+1.1,1.9,85,1250,Major Fault
+0.75,1.1,70,1280,Minor Fault
+0.33,0.5,65,1220,Normal
